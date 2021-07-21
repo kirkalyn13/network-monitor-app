@@ -18,7 +18,7 @@ const Navbar = () => {
                     DATA
                 </Link>
                 <Link to="/outages">
-                    OUTAGES
+                    OUTAGE
                 </Link>
             </nav>
         </div>
